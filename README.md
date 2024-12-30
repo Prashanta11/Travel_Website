@@ -45,17 +45,6 @@ travel-website/
 └── README.md
 ```
 
-## Screenshots
-
-### Hero Section
-![Hero Section](assets/screenshots/hero-section.png)
-
-### Destination Cards
-![Destination Cards](assets/screenshots/destination-cards.png)
-
-### Footer
-![Footer](assets/screenshots/footer.png)
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or want to add features, feel free to fork the repository and submit a pull request.
