@@ -48,12 +48,15 @@ travel-website/
 ## Screenshots
 
 ### Hero Section
+
 ![Hero Section](assets/screenshots/hero-section.png)
 
 ### Destination Cards
+
 ![Destination Cards](assets/screenshots/destination-cards.png)
 
 ### Footer
+
 ![Footer](assets/screenshots/footer.png)
 
 ## Contributing
@@ -82,4 +85,4 @@ Contributions are welcome! If you have suggestions or want to add features, feel
 
 ---
 
-Feel free to explore, modify, and enhance this project. Enjoy your journey with this travel website!
+Feel free to explore, modify, and enhance this project.
